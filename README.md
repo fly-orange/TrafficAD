@@ -10,4 +10,6 @@ Original datasets can be downloaded at https://drive.google.com/file/d/1vgeBM5sY
 
 ## Model
 
-‘python main.py --dataset dataset_name --detector model_name’
+python main.py --dataset dataset_name --detector model_name
+
+
